@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 👥📊 [HR Employee](https://github.com/Linduyyy/Project-3-HR-Employee.git) | May 2025 | MySQL, Power BI | This project demonstrates my ability to analyze HR employee data using SQL and Power BI. It includes Cleaning & transforming HR data using SQL, Performing exploratory data analysis (EDA), and Creating interactive Power BI dashboards. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🍕 [Pizza Sales](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2025 |Excel, MySQL | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
 
 ***
 
