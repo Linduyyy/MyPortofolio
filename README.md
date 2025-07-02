@@ -3,10 +3,10 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Analyst]((https://github.com/Linduyyy/MyPortofolio/edit/main/README.md#data-analyst))
+- [Data Analyst](#data-analyst)
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
+- [PowerBI](#powerbi)
 
 # Data Analyst
 
