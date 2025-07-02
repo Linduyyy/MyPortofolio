@@ -13,7 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 👥📊 [HR Employee](https://github.com/Linduyyy/Project-3-HR-Employee.git) | May 2025 | MySQL, Power BI | This project demonstrates my ability to analyze HR employee data using SQL and Power BI. It includes Cleaning & transforming HR data using SQL, Performing exploratory data analysis (EDA), and Creating interactive Power BI dashboards. |
-| 🍕 [Pizza Sales](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2025 |Excel, MySQL | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🍕 [Pizza Sales](https://github.com/Linduyyy/Pizza-Sales.git) | Mar 2025 |Excel, SQL Server Management Studio | This project aims to analyze pizza sales data using SQL for data exploration and KPI measurement, followed by the creation of an interactive dashboard in Excel using pivot tables. The objective is to extract actionable business insights that can help stakeholders understand performance trends and optimize sales strategies. |
 
 ***
 
