@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Data Analyst](#data-analyst)
 - [SQL](#sql)
 - [Python](#python)
-- [PowerBI](#powerbi)
+- [Power BI](#power-bi)
 
 # Data Analyst
 
@@ -22,7 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 📚 [Library Management System](https://github.com/Linduyyy/Project-2-Library-Management-System.git) | Data cleaning, data analysis, data trasformation | This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis. |  
-| 🏬 [Retail Sales]https://github.com/Linduyyy/p1_sql_retail_sales.git() | Data cleaning, data analysis | This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involve setting up a retail sales database, performing exploratory data analysis (EDA), and answering spesific business questions through SQL queries. |  
+| 🏬 [Retail Sales](https://github.com/Linduyyy/p1_sql_retail_sales.git) | Data cleaning, data analysis | This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involve setting up a retail sales database, performing exploratory data analysis (EDA), and answering spesific business questions through SQL queries. |  
 
 ***
 
