@@ -30,7 +30,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🏬 [Retail Orders](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Data Cleaning | This project involves thorough cleaning and analysis of retail orders data. The data cleaning process is done using Python with the help of the pandas library, while the data analysis is done using SQL to answer relevant business questions. |(https://github.com/Linduyyy/Python-SQL-1.git). | pandas | 
+| 🏬 [Retail Orders](https://github.com/Linduyyy/Python-SQL-1.git) | Data Cleaning | This project involves thorough cleaning and analysis of retail orders data. The data cleaning process is done using Python with the help of the pandas library, while the data analysis is done using SQL to answer relevant business questions. | | pandas | 
 
 ***
 
